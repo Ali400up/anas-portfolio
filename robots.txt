@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anas-portfolio-soft.vercel.app/sitemap.xml
